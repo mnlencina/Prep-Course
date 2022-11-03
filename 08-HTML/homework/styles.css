@@ -1,0 +1,21 @@
+h1{
+    color: red;
+ }
+
+ img{
+    width: 400px;
+ }
+
+ #thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: chocolate;
+    padding: 50px;
+    border: 4mm ridge rgba(13, 255, 0, 0.6);;
+ }
+
+ #spanId{
+    font-size: 18px;
+    margin: 50px;
+ }
+
